@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zurab Kentchuashvili.</h1>
-<h3 align="center">A passionate Game & Software Developer, pursuing Computer Science degree in Kutaisi International University in Georgia</h3>
+<h3 align="center">A passionate Game & Software Developer <br> Pursuing Computer Science degree in Kutaisi International University in Georgia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
